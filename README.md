@@ -56,11 +56,23 @@ projet_multiagent_vf/
 
 ## **4. Architecture des Agents**
 
-Chaque agent est autonome et focalisé sur une tâche spécifique.  
+**Agent Transcription.  
 
 ![Architecture des Agents](images/architecture_agents.png)  
-*(Ajoute ici une image montrant l’architecture de chaque agent)*
 
+**Agent analyse métier.  
+
+![Architecture des Agents](images/agent_analyses.png)  
+
+
+
+**Agent analyse AI.  
+
+![Architecture des Agents](images/agent_analyse_ai.png)  
+
+**Agent sms.  
+
+![Architecture des Agents](images/agentsms.png)  
 ---
 
 ## **5. Installation**
