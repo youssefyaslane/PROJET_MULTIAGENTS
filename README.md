@@ -62,7 +62,7 @@ projet_multiagent_vf/
 
 **Agent analyse métier.  
 
-![Architecture des Agents](images/agent_analyses.png)  
+![Architecture des Agents](images/agent_analyse.png)  
 
 
 
